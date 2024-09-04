@@ -1,0 +1,1 @@
+# Enable-40MHz-channel-width-on-the-2.4GHz-band
